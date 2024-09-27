@@ -1,8 +1,28 @@
 body{
     background-color: aquamarine;
 }
-table , td{
+table {
+    background-color: azure;
     border: 2px solid black;
+    margin: 100px auto ;
+    border-radius: 10px;
+    border-style: groove;
+    border-width: 10px;
+    color:blue;
+    padding: auto;
+}
+td{
+    padding:4px 20px;
+    border: 2px solid black;
+    margin: 0;
 
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    margin: 0;
 }
 
