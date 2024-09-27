@@ -1,0 +1,15 @@
+#heading
+{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: darkmagenta;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:larger;
+}
+
+table,td
+{
+    width: 100%;
+    border: 5px yellow dotted;
+}
