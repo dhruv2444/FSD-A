@@ -1,0 +1,20 @@
+
+/* child desendance */
+/* div > p{
+
+    background-color: green;
+} */
+
+/* adjacent decesdance */
+/* div + p{
+
+    background-color: green;
+} */
+
+
+/* all decendance */
+
+div ~ p{
+
+    background-color: green;
+}
