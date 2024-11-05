@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container{
     margin: 25%;
     border: 2px solid black;
@@ -7,4 +8,25 @@
 .a{
    margin: 10px;
    align-items: center;
+=======
+
+/* child desendance */
+/* div > p{
+
+    background-color: green;
+} */
+
+/* adjacent decesdance */
+/* div + p{
+
+    background-color: green;
+} */
+
+
+/* all decendance */
+
+div ~ p{
+
+    background-color: green;
+>>>>>>> 760dc25c22be5e58465c52cc961d7905fc891067
 }
